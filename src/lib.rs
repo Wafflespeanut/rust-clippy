@@ -1,5 +1,6 @@
 #![feature(plugin_registrar, box_syntax)]
 #![feature(rustc_private, collections)]
+#![feature(str_split_at)]
 #![allow(unused_imports)]
 
 #[macro_use]
